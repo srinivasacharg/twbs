@@ -1,0 +1,11 @@
+#+TITLE: Atria Institute of Technology
+#+AUTHOR: Srinivasachar G
+#+EMAIL: gsrinivasachar@gmail.com
+#+DATE:
+#+OPTIONS: num:t toc:t whn:nil 
+ [[https://srinivasacharg.github.io/twbs/index.html][Home]] [[https://srinivasacharg.github.io/twbs/blog.html][Blog]] [[https://srinivasacharg.github.io/twbs/about.html][About]] [[https://srinivasacharg.github.io/twbs/project.html][Project]] [[https://srinivasacharg.github.io/twbs/resume.html][Resume]]
+
+-----
+
+
+

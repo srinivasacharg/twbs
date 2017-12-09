@@ -1,0 +1,13 @@
+
+#+INCLUDE:header.org
+
+@@html:<style> .figure-number { display: none; } </style> @@
+#+CAPTION: Asst. Professor
+[[file:images/profile.png]] 
+
+#+INCLUDE:footer.org
+
+
+
+
+
